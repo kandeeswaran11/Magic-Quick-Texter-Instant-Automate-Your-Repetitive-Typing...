@@ -3,12 +3,20 @@ Magic XLSX Quick Texter - by InstantAutomate - is a Tiny shortcut text into long
 Its lets you turn tiny shortcuts (Hotstring or Hotkey) into long text instantly, fully customizable from Excel without editing scripts.
 
 # How it works
-Prepare your Excel file (Shortcuts.xlsx) with 3 columns:
-Type → Hotstring or Hotkey
-Trigger Key → e.g., ahk or ^q (^ means Ctrl, ! means Alt, + means Shift)
-Action Text → The full expanded text
-<Br>
-## Example:
+Prepare your Excel file (Shortcuts.xlsx) with 4 columns:
+ 1. Type → **Hotstring** or **Hotkey**
+ 2. Name→**Description of  your key** 
+ 3. Trigger Key → e.g., **ahk**  or  ^q  (**Ctrl Q**)
+ You Can Combine with your own symbols like
+- __For Hotstrings :__
+- - <gm, *abc , [abc and etc..
+- __For HotKeys :__
+- - ^R – Control and W
+- - !+R – Alt shift and R
+  - (^ means Ctrl, ! means Alt, + means Shift)
+4. Action Text → The auto-inserted full text
+
+## Excel Format Example:
 
 | Type | Name | Key | Actions |
 |--|--|--|--|
@@ -17,12 +25,31 @@ Action Text → The full expanded text
 | Hotkey | Sorry | ^r | We regret any inconvenience this has caused you! |
 | Hotkey | Welcome | ^w| We regret any inconvenience this has caused you! |
 
-Run the script → It reads the Excel file and auto-creates the hotkeys & hotstrings.
+# Updating Your Excel Shortcuts.xlsx
+1. Close the running script → Right-click the green H icon in the tray (near the clock) and choose Exit.
 
-Use in daily typing:
+2. Open Shortcuts.xlsx → edit or add your shortcuts.
 
-Type ahk → It becomes “AutoHotkey Text Expander”.
+3. Save and close Excel.
 
-Press Ctrl+Q → It inserts “Thanks for Contacting us. We will get back to you soon !!”.
+4. Double-click Magic XLSX Quick Texter.ahk again.
 
-Edit Excel file anytime → Restart the script → Your new shortcuts are ready.
+  - Your new shortcuts are ready to use!
+
+# Built-In Functions : (No need to specify in Excel )
+- Just Type Whereever You Need __*Time And Date*__
+- __*--d*__ For Date __*26-08-2025*__
+- __*--t*__ For Time __*03:10:04*__
+ --------------------------- 
+ # How to setup
+ 1. Download And Install If you dont have AutoHotkey v2 
+from the official site: https://www.autohotkey.com/download/
+Complete the installation (default options are fine).
+
+2. Download the Magic XLSX Quick Texter from Repo. Extract the ZIP file to a folder on your PC (example: C:\MagicQuickTexter).
+3. Open __Magic XLSX Quick Texter.ahk__ script → It reads the Excel file and auto-creates the hotkeys & hotstrings.
+4. Use in daily typing:
+5. Edit Excel file anytime → Restart the script → Your new shortcuts are ready. Enjoy
+-------
+### " யாம் பெற்ற இன்பம் பெறுக இவ்வையகம் "   
+__"Let the world enjoy the happiness we have experienced "__
