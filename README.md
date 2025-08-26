@@ -1,5 +1,5 @@
 # Magic-XLSX-Quick-Texter-InstantAutomate
-Magic XLSX Quick Texter - by InstantAutomate - is a Tiny shortcut text into long text + Auto Form filler utility powered by AutoHotkey v2.
+Magic XLSX Quick Texter - by InstantAutomate - is a Tiny shortcut text into long text And Auto Form filler utility powered by AutoHotkey v2.
 Its lets you turn tiny shortcuts (Hotstring or Hotkey) into long text instantly, fully customizable from Excel without editing scripts.
 
 # How it works
@@ -37,7 +37,7 @@ Prepare your Excel file (Shortcuts.xlsx) with 4 columns:
   - Your new shortcuts are ready to use!
 
 # Built-In Functions : (No need to specify in Excel )
-- Just Type Whereever You Need __*Time And Date*__
+- Just Type Anywhere You Need __*Time And Date*__
 - __*--d*__ For Date __*26-08-2025*__
 - __*--t*__ For Time __*03:10:04*__
  --------------------------- 
@@ -45,11 +45,12 @@ Prepare your Excel file (Shortcuts.xlsx) with 4 columns:
  1. Download And Install If you dont have AutoHotkey v2 
 from the official site: https://www.autohotkey.com/download/
 Complete the installation (default options are fine).
-
-2. Download the Magic XLSX Quick Texter from Repo. Extract the ZIP file to a folder on your PC (example: C:\MagicQuickTexter).
-3. Open __Magic XLSX Quick Texter.ahk__ script → It reads the Excel file and auto-creates the hotkeys & hotstrings.
-4. Use in daily typing:
-5. Edit Excel file anytime → Restart the script → Your new shortcuts are ready. Enjoy
+2. Github Repo Link- https://github.com/kandeeswaran11/Magic-XLSX-Quick-Texter-InstantAutomate
+3. Download the Magic XLSX Quick Texter from Repo. Extract the ZIP file to a folder on your PC (example: C:\MagicQuickTexter).
+5. Open __Magic XLSX Quick Texter.ahk__ script → It reads the Excel file and auto-creates the hotkeys & hotstrings.
+6. Use in daily typing:
+7. Edit Excel file anytime → Restart the script → Your new shortcuts are ready.
+8. __Enjoy__ !!!!! 
 -------
 ### " யாம் பெற்ற இன்பம் பெறுக இவ்வையகம் "   
 __"Let the world enjoy the happiness we have experienced "__
