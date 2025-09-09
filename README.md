@@ -1,5 +1,5 @@
-# Magic-XLSX-Quick-Texter-InstantAutomate
-Magic XLSX Quick Texter - by InstantAutomate - is a Tiny shortcut text into long text And Auto Form filler utility powered by AutoHotkey v2.
+# Magic-Quick-Texter-Instant Automate Your Typing
+Magic Quick Texter - is a Text Expander ( Tiny shortcut text into long text ) And Auto Form filler utility powered by AutoHotkey v2.
 Its lets you turn tiny shortcuts (Hotstring or Hotkey) into long text instantly, fully customizable from Excel without editing scripts.
 
 # How it works
@@ -23,7 +23,7 @@ Prepare your Excel file (Shortcuts.xlsx) with 4 columns:
 | Hotstring | Greeting | Gm | Good Morning ! |
 | Hotstring | Thanks| Thx | Thanks for contacting us. Our team will respond to you as soon as possible. |
 | Hotkey | Sorry | ^r | We regret any inconvenience this has caused you! |
-| Hotkey | Welcome | ^w| We regret any inconvenience this has caused you! |
+| Hotkey | Welcome | ^w| Magic Quick Texter Welcomes You  |
 
 # Updating Your Excel Shortcuts.xlsx
 1. Close the running script → Right-click the green H icon in the tray (near the clock) and choose Exit.
@@ -45,7 +45,7 @@ Prepare your Excel file (Shortcuts.xlsx) with 4 columns:
  1. Download And Install If you dont have AutoHotkey v2 
 from the official site: https://www.autohotkey.com/download/
 Complete the installation (default options are fine).
-2. Github Repo Link- https://github.com/kandeeswaran11/Magic-XLSX-Quick-Texter-InstantAutomate
+2. Github Repo Link- https://github.com/kandeeswaran11/Magic-Quick-Texter-Instant-Automate-Your-Repetitive-Typing.../
 3. Download the Magic XLSX Quick Texter from Repo. Extract the ZIP file to a folder on your PC (example: C:\MagicQuickTexter).
 5. Open __Magic XLSX Quick Texter.ahk__ script → It reads the Excel file and auto-creates the hotkeys & hotstrings.
 6. Use in daily typing:
@@ -53,4 +53,4 @@ Complete the installation (default options are fine).
 8. __Enjoy__ !!!!! 
 -------
 ### " யாம் பெற்ற இன்பம் பெறுக இவ்வையகம் "   
-__"Let the world enjoy the happiness we have experienced "__
+__"Let the world enjoy the happiness What we have experienced "__
