@@ -1,7 +1,8 @@
-# Magic-Quick-Texter-Instant Automate Your Typing
+# Magic-Quick-Texter-Instant Automate Your Typing (Demo Version)
 Magic Quick Texter - is a Text Expander ( Tiny shortcut text into long text ) And Auto Form filler utility powered by AutoHotkey v2.
 Its lets you turn tiny shortcuts (Hotstring or Hotkey) into long text instantly, fully customizable from Excel without editing scripts.
 
+If you Need Full .exe Version or AHK V2 Version Contact Me At instantautomate@gmail.com
 # How it works
 Prepare your Excel file (Shortcuts.xlsx) with 4 columns:
  1. Type → **Hotstring** or **Hotkey**
@@ -46,8 +47,8 @@ Prepare your Excel file (Shortcuts.xlsx) with 4 columns:
 from the official site: https://www.autohotkey.com/download/
 Complete the installation (default options are fine).
 2. Github Repo Link- https://github.com/kandeeswaran11/Magic-Quick-Texter-Instant-Automate-Your-Repetitive-Typing.../
-3. Download the Magic XLSX Quick Texter from Repo. Extract the ZIP file to a folder on your PC (example: C:\MagicQuickTexter).
-5. Open __Magic XLSX Quick Texter.ahk__ script → It reads the Excel file and auto-creates the hotkeys & hotstrings.
+3. Download the Magic Quick Texter from Repo. Extract the ZIP file to a folder on your PC (example: C:\MagicQuickTexter).
+5. Open __Magic Quick Texter.ahk__ script → It reads the Excel file and auto-creates the hotkeys & hotstrings.
 6. Use in daily typing:
 7. Edit Excel file anytime → Restart the script → Your new shortcuts are ready.
 8. __Enjoy__ !!!!! 
