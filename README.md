@@ -1,11 +1,11 @@
-# Magic-Quick-Texter-Instant Automate Your Typing (Demo Version)
-Magic Quick Texter - is a Text Expander ( Tiny shortcut text into long text ) And Auto Form filler utility powered by AutoHotkey v2.
+# Magic-Quick-Typer-Instant Automate Your Typing (Demo Version)
+Magic Quick Typer - is a Text Expander ( Tiny shortcut text into long text ) And Auto Form filler utility powered by AutoHotkey v2.
 Its lets you turn tiny shortcuts (Hotstring or Hotkey) into long text instantly, fully customizable from Excel without editing scripts.
 
 If you Need Full .exe Version or AHK V2 Version Contact Me At instantautomate@gmail.com
 # How it works
 Prepare your Excel file (Shortcuts.xlsx) with 4 columns:
- 1. Type → **Hotstring** or **Hotkey**
+ 1. Type → **Hotstring** _(Shortcut Text)_ or **Hotkey** _(shortcut key)_
  2. Name→**Description of  your key** 
  3. Trigger Key → e.g., **ahk**  or  ^q  (**Ctrl Q**)
  You Can Combine with your own symbols like
@@ -24,7 +24,7 @@ Prepare your Excel file (Shortcuts.xlsx) with 4 columns:
 | Hotstring | Greeting | Gm | Good Morning ! |
 | Hotstring | Thanks| Thx | Thanks for contacting us. Our team will respond to you as soon as possible. |
 | Hotkey | Sorry | ^r | We regret any inconvenience this has caused you! |
-| Hotkey | Welcome | ^w| Magic Quick Texter Welcomes You  |
+| Hotkey | Welcome | ^w| Magic Quick Typer Welcomes You  |
 
 # Updating Your Excel Shortcuts.xlsx
 1. Close the running script → Right-click the green H icon in the tray (near the clock) and choose Exit.
@@ -33,7 +33,7 @@ Prepare your Excel file (Shortcuts.xlsx) with 4 columns:
 
 3. Save and close Excel.
 
-4. Double-click Magic XLSX Quick Texter.ahk again.
+4. Double-click Magic Quick Typer.ahk again.
 
   - Your new shortcuts are ready to use!
 
@@ -46,9 +46,9 @@ Prepare your Excel file (Shortcuts.xlsx) with 4 columns:
  1. Download And Install If you dont have AutoHotkey v2 
 from the official site: https://www.autohotkey.com/download/
 Complete the installation (default options are fine).
-2. Github Repo Link- https://github.com/kandeeswaran11/Magic-Quick-Texter-Instant-Automate-Your-Repetitive-Typing.../
-3. Download the Magic Quick Texter from Repo. Extract the ZIP file to a folder on your PC (example: C:\MagicQuickTexter).
-5. Open __Magic Quick Texter.ahk__ script → It reads the Excel file and auto-creates the hotkeys & hotstrings.
+2. Github Repo Link- https://github.com/kandeeswaran11/Magic-Quick-Typer-Instant-Automate-Your-Repetitive-Typing.../
+3. Download the Magic Quick Typer from Repo. Extract the ZIP file to a folder on your PC (example: C:\MagicQuickTyper).
+5. Open __Magic Quick Typer.ahk__ script → It reads the Excel file and auto-creates the hotkeys & hotstrings.
 6. Use in daily typing:
 7. Edit Excel file anytime → Restart the script → Your new shortcuts are ready.
 8. __Enjoy__ !!!!! 
